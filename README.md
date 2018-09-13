@@ -8,5 +8,9 @@
 ### ransac直线拟合
 ### 霍夫变换直线拟合
 ### B站3B1B线性代数
+### ICP和NDT
+
 # itemsHaveDone
 ### 牛顿插值
+### Bresenham 画线算法
+### Occupancy 地图更新原理
